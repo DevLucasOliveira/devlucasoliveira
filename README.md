@@ -1,12 +1,16 @@
-# Portfólio
+# devlucasoliveira
 
-Site pessoal de apresentação.
+### Site pessoal de apresentação. 
+  
+  
+Neste projeto foi utilizado uma arquitetura hospedada na aws utilizando os serviços: Route53, CloudFront e S3 bucket.
+Abaixo está um diagrama para melhor visualização: 
 
   
-### Abaixo está um link para visitar o site:
-
-
-https://portifoliolucasoliveira.000webhostapp.com/
+![Untitled Diagram (5)](https://user-images.githubusercontent.com/47563193/81508846-08b92300-92dd-11ea-8bc4-4721b2f00aea.png)
+  
+    
+#### Para visitar o site, acesse o link abaixo:
 
   
-![image](https://user-images.githubusercontent.com/47563193/80967029-13128300-8dec-11ea-855f-e17ed76feab7.png)
+https://devlucasoliveira.com/
