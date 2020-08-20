@@ -1,16 +1,15 @@
-# devlucasoliveira
+# Hi! Thanks for the visit.
 
-### Site pessoal de apresentação. 
+I'm a Backend Software Developer:
   
-  
-Neste projeto foi utilizado uma arquitetura hospedada na aws utilizando os serviços: Route53, CloudFront e S3 bucket.
-Abaixo está um diagrama para melhor visualização: 
-
-  
-![Untitled Diagram (5)](https://user-images.githubusercontent.com/47563193/81508846-08b92300-92dd-11ea-8bc4-4721b2f00aea.png)
-  
-    
-#### Para visitar o site, acesse o link abaixo:
+- :man_technologist: I'm currently working at Listo.
+- :heart: I like to participate in all phases of development.
+- :desktop_computer: I have experience with C#, .NET Core, Angular 2+, SQL Server, Azure and AWS.
+- :email: How to reach me: lucasoliveira.si@outlook.com
 
   
-https://devlucasoliveira.com/
+###### For more information:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-91a27716a/)](https://www.linkedin.com/in/lucas-oliveira-91a27716a/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511983656630&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20do%20Github!)](https://api.whatsapp.com/send?phone=5511983656630&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20do%20Github!)
+[![Developer Badge](https://img.shields.io/badge/-Portifolio-black?style=flat-square&logo=Dev&logoColor=white&link=https://https://devlucasoliveira.com/)](https://devlucasoliveira.com/)
