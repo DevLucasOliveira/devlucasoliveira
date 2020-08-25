@@ -4,7 +4,7 @@ I'm a Backend Software Developer:
   
 - :man_technologist: I'm currently working at Listo.
 - :heart: I like to participate in all phases of software development.
-- :desktop_computer: I have experience with C#, .NET Core, Angular 2+, SQL Server, Azure and AWS.
+- :desktop_computer: I have experience with C#, .NET Core, Angular 2+, SQL Server, MongoDB, Azure and AWS.
 - :email: How to reach me: lucasoliveira.si@outlook.com
 
   
