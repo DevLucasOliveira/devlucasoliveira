@@ -1,8 +1,8 @@
 # Hi! Thanks for the visit.
 
-I'm a Backend Software Developer:
+I'm a Fullstack Software Developer:
   
-- :man_technologist: I'm currently working at Listo.
+- :man_technologist: I'm currently working at Somos Educação.
 - :heart: I like to participate in all phases of software development.
 - :desktop_computer: I have experience with C#, .NET Core, .NET Framework, Angular 2+, SQL Server, MongoDB, Azure and AWS.
 - :email: How to reach me: lucasoliveira.si@outlook.com
