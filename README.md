@@ -1,18 +1,19 @@
 ## Hi there 👋
 
 <p align="left">
-  I'm a Software Engineer focused on building scalable systems and data-driven platforms.
+  I'm a Software Engineer building scalable, high-performance and distributed systems.
 </p>
 
 ---
 
 ### About
 
-- Building **high-performance backend systems** with C# / .NET  
-- Designing **distributed systems, APIs and data pipelines**  
-- Working with **data-intensive applications and large-scale integrations**  
-- Experience in **forecasting, supply chain and decision-driven systems**  
-- Cloud experience across **Azure, AWS and GCP**
+- Building robust and scalable backend systems  
+- Designing distributed architectures and data platforms  
+- Experienced with large-scale, data-intensive applications  
+- Strong focus on system design and performance optimization  
+- Cloud-native development across Azure, AWS and GCP  
+- Exploring AI and emerging technologies to drive innovation
 
 ---
 
@@ -47,7 +48,8 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CI/CD-000000?style=flat&logo=githubactions"/>
-
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+  
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws"/>
